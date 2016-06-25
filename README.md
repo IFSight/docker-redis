@@ -1,2 +1,1 @@
-# docker-redis
-IF Fulcrum Docker Redis
+# IF Fulcrum Docker Redis
